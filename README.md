@@ -9,6 +9,9 @@
   </a>
 </p>
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fillvart%2Fcors.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fillvart%2Fcors?ref=badge_large)
+
 ## 👨‍💻 Quick Start
 Please read the others commands in the ```package.json```.
 
@@ -41,6 +44,7 @@ yarn server # or npm run server
 ## 🖼️ Screenshot
 
 ![Screenshot](doc/cors.illvart.com_screenshot.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fillvart%2Fcors.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fillvart%2Fcors?ref=badge_shield)
 
 ## ❤️ Show your support
 
